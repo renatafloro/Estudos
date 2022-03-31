@@ -22,3 +22,4 @@ git add . -> adicionar alteração no arquivo ao rastreio(stage)
 git commit -m "xxxx" -> messagem para documentar o que foi feito
 git push -u origin main -> sincroniza com repositório remoto
 # capgimeni
+# capgimeni
