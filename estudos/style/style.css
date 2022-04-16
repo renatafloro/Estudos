@@ -1,0 +1,38 @@
+        .container{
+            padding: 50px;
+         text-align: center;
+         }
+         h1{
+             padding: 10px;
+             color: orangered;
+             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         }
+         p{
+             padding: 10px;
+             color: blue;
+             font-size: larger;
+             font-style: italic;
+             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         }
+         label{
+             padding: 10px;
+             color: orangered;
+             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         }
+         input{
+             width: 115px;
+             border-radius: 10px;
+             background-color: rgb(192, 225, 243);
+             border: none;
+         }
+         button{
+             background-color: blue;
+             color: white;
+             margin-top: 50px;
+         }
+         button:hover{
+             background-color: orangered;  
+         }
+      
+
+ 
