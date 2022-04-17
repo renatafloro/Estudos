@@ -1,0 +1,29 @@
+{
+  "cadastro": [
+    {
+      "id": 1,
+      "nome": "Ana",
+      "senha": 12345678
+    },
+    {
+      "nome": "Ana",
+      "senha": "q3rfcagrgrdwgad",
+      "id": 2
+    },
+    {
+      "nome": "Tarcísio",
+      "senha": "123456788",
+      "id": 3
+    },
+    {
+      "nome": "Sabrina",
+      "senha": "12345678",
+      "id": 4
+    },
+    {
+      "nome": "Renata",
+      "senha": "renata123",
+      "id": 5
+    }
+  ]
+}
